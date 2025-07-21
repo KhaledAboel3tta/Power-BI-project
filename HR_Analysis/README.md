@@ -51,10 +51,10 @@ Enabled HR to take data-driven decisions for 2023
 📂 Project Structure
 
 HR-Analytics-Dashboard/
-├── HR_Analytics.csv          # Dataset
-├── HR_Analytics.pbix         # Power BI dashboard file (upload this)
-├── screenshots/              # Folder with dashboard images
-└── README.md                 # Project documentation
+├── HR_Analytics.csv          
+├── HR_Analytics.pbix         
+├── screenshots/              
+└── README.md                 
         
 🚀 How to Use
 Download or clone this repository
